@@ -20,6 +20,13 @@
         "img_src": "https://cdn.newsapi.com.au/image/v1/02f417a045330ade23901c8ac0ac357f",
         "img_alt": "Banana",
         "link": "https://kevinzahri.com/what-i-ate-when-i-was-losing-weight/"
+    },
+    {
+        "title": "hello world",
+        "by": "By bye bye - 8 Jun 2011",
+        "img_src": "https://cdn.newsapi.com.au/image/v1/02f417a045330ade23901c8ac0ac357f",
+        "img_alt": "Banana",
+        "link": "https://www.nst.com.my/education/2018/06/377392/um-breaks-top-100-world-university-rankings"
     }
 
 ]
